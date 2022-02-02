@@ -22,13 +22,28 @@ Click me to display Date and Time.</button>
 
 #---------------------------------
  
-  <h3>In this case JavaScript changes the value of the src (source) attribute of an image</h3> 
+<h3>In this case JavaScript changes the value of the src (source) attribute of an image</h3> 
   
   <button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
 
 <img id="myImage" src="pic_bulboff.gif" style="width:100px">
 
 <button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button>
+  
+#---------------------------------
+
+  <h3>JavaScript Statements</h3>
+  <p>JavaScript statements are seprated by semicolons.</p>
+  
+  <p id="demo1></p>
+   
+  <script>
+         let a, b, c;
+         a = 5;
+         b = 7;
+         c = a + b;
+  documents.getElementById("demo1").innerHTML = c;
+  </script>
   
 </body>
 </html> 
