@@ -13,14 +13,14 @@ Click me to display Date and Time.</button>
 
 <p id="demo"></p>
   
-#----------------------------------
+----------------------------------
   <h2>What Can JavaScript Do?</h2>
 
 <p id="demo">JavaScript can change HTML content.</p>
 
 <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
 
-#---------------------------------
+---------------------------------
  
 <h3>In this case JavaScript changes the value of the src (source) attribute of an image</h3> 
   
@@ -30,7 +30,7 @@ Click me to display Date and Time.</button>
 
 <button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button>
   
-#---------------------------------
+---------------------------------
 
   <h3>JavaScript Statements</h3>
   <p>JavaScript statements are seprated by semicolons.</p>
@@ -45,5 +45,19 @@ Click me to display Date and Time.</button>
   documents.getElementById("demo1").innerHTML = c;
   </script>
   
+--------------------------------------------------------
+                              
+ <h2>JavaScript Variables</h2>
+
+<p>In this example, x is defined as a variable. Then, x is assigned the value of 6:</p>
+
+<p id="demo"></p>
+
+<script>
+let x;
+x = 6;
+document.getElementById("demo").innerHTML = x;
+</script>
+                              
 </body>
-</html> 
+</html>
