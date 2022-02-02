@@ -20,5 +20,15 @@ Click me to display Date and Time.</button>
 
 <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
 
+#---------------------------------
+ 
+  <h3>In this case JavaScript changes the value of the src (source) attribute of an image</h3> 
+  
+  <button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
+
+<img id="myImage" src="pic_bulboff.gif" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button
+  
 </body>
 </html> 
