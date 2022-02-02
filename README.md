@@ -45,9 +45,9 @@ Click me to display Date and Time.</button>
   documents.getElementById("demo1").innerHTML = c;
   </script>
   
-#--------------------------------------------------------
+--------------------------------------------------------
                               
- <h2>JavaScript Variables</h2>
+ <h3>JavaScript Variables</h3>
 
 <p>In this example, x is defined as a variable. Then, x is assigned the value of 6:</p>
 
@@ -57,6 +57,21 @@ Click me to display Date and Time.</button>
       let x;
       x = 6;
 document.getElementById("demo").innerHTML = x;
+</script>
+                              
+ ------------------------------------------------------
+                              
+ <h2>Assigning JavaScript Values</h2>
+
+<p>In JavaScript the = operator is used to assign values to variables.</p>
+
+<p id="demo"></p>
+
+<script>
+let x, y;
+x = 5;
+y = 6;
+document.getElementById("demo").innerHTML = x + y;
 </script>
                               
 </body>
