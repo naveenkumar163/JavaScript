@@ -81,6 +81,22 @@ document.getElementById("demo").innerHTML = x + y;
  <p>Click the button to print current page</p>
  
  <button onlick="window.print()">Print this page</button>
+                                
+------------------------------------------------------------
+<h3>JavaScript Statements</h3>
+<p>JavaScript code block are written between { and } </p>
+                                
+ <button type="button onlick="myFunction()">Click Me! </button>
+  
+  <p id="demo1"></p>
+  <p id="demo2"></p>
+  
+  <script>
+    function myFunction() {
+    document.getElementById("demo1").innerHTML = "Hello Ranjan";
+    document.getElementById("demo2").innerHTML = "How are You?";
+    }
+  </script>
                               
 </body>
 </html>
