@@ -97,6 +97,21 @@ document.getElementById("demo").innerHTML = x + y;
     document.getElementById("demo2").innerHTML = "How are You?";
     }
   </script>
-                              
+  
+  -----------------------------------------
+  <h3>the <b>let</b> keywords creates Variables</h3>
+  
+  <p id="demo"></p>
+  
+  <script>
+  let x,y;
+    x = 5 + 6;
+    y = X * 5;
+    
+    document.getElementById("deno").innerHTML = y;
+  </script>  
+  
+  
+  
 </body>
 </html>
