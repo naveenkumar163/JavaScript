@@ -73,6 +73,14 @@ x = 5;
 y = 6;
 document.getElementById("demo").innerHTML = x + y;
 </script>
+                            
+ ------------------------------------------------------
+                             
+ <h3>The window.print() Method</h3>
+                              
+ <p>Click the button to print current page</p>
+ 
+ <button onlick="window.print()">Print this page</button>
                               
 </body>
 </html>
