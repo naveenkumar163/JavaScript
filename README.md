@@ -104,9 +104,9 @@ document.getElementById("demo").innerHTML = x + y;
   <p id="demo"></p>
   
   <script>
-  let x,y;
+  let x, y;
     x = 5 + 6;
-    y = X * 5;
+    y = x * 5;
     
     document.getElementById("deno").innerHTML = y;
   </script>  
