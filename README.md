@@ -61,7 +61,7 @@ document.getElementById("demo").innerHTML = x;
                               
  ------------------------------------------------------
                               
- <h2>Assigning JavaScript Values</h2>
+ <h3>Assigning JavaScript Values</h3>
 
 <p>In JavaScript the = operator is used to assign values to variables.</p>
 
@@ -148,25 +148,42 @@ document.getElementById("demo").innerHTML = x + y;
   
  <h3>Math.pow()</h3>
 
-<p id="demo"></p>
+  <p id="demo"></p>
 
-<script>
-let x = 5;
-document.getElementById("demo").innerHTML = Math.pow(x,2);
-</script>
+  <script>
+  let x = 5;
+  document.getElementById("demo").innerHTML = Math.pow(x,2);
+  </script>
   
 ------------------------------------------------------------
   
- <h2>JavaScript Assignments</h2>
-<h3>The *= Operator</h3>
+ <h3>JavaScript Assignments</h3>
+ <h4>The *= Operator</h4>
 
-<p id="demo"></p>
+ <p id="demo"></p>
 
-<script>
-let x = 10;
-x += 5;
-document.getElementById("demo").innerHTML = x;
-</script>
+ <script>
+ let x = 10;
+ x += 5;
+ document.getElementById("demo").innerHTML = x;
+ </script>
+------------------------------------------------------------
+  <h2>JavaScript Strings</h2>
+
+  <p>You can use quotes inside a string, as long as they don't match the quotes surrounding the string:</p>
+
+  <p id="demo"></p>
+
+  <script>
+  let answer1 = "It's alright";
+  let answer2 = "He is called 'Johnny'";
+  let answer3 = 'He is called "Johnny"';
+
+  document.getElementById("demo").innerHTML =
+  answer1 + "<br>" + 
+  answer2 + "<br>" + 
+  answer3;
+  </script>
   
 </body>
 </html>
