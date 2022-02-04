@@ -144,6 +144,16 @@ document.getElementById("demo").innerHTML = x + y;
     document.getElementById("demo").innerHTML = x;
     
   </script>
+--------------------------------------------------------------
+  
+ <h3>Math.pow()</h3>
+
+<p id="demo"></p>
+
+<script>
+let x = 5;
+document.getElementById("demo").innerHTML = Math.pow(x,2);
+</script>
   
 </body>
 </html>
