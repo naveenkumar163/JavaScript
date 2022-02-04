@@ -116,20 +116,34 @@ document.getElementById("demo").innerHTML = x + y;
   
   <p id="demo"></p>
 
-<script>
-// Create an Array:
-const cars = ["Saab", "Volvo", "BMW"];
+  <script>
+  // Create an Array:
+  const cars = ["Saab", "Volvo", "BMW"];
 
-// Change an element:
-cars[0] = "Toyota";
+  // Change an element:
+  cars[0] = "Toyota";
 
-// Add an element:
-cars.push("Audi");
+  // Add an element:
+  cars.push("Audi");
 
-// Display the Array:
-document.getElementById("demo").innerHTML = cars;
-  </script>
+  // Display the Array:
+  document.getElementById("demo").innerHTML = cars;
+    </script>
+  
+---------------------------------------------------------
+  <h3>JavaScript Arithmetic</h3>
+  
+  <p>A typical arithmetic operation takes two numbers (or expressions) and produces a new number.</p>
+  
+  <p id="demo"></p>
+  
+  <script>
+    let a = 3;
+    let x = (100 + 50)* a;
     
+    document.getElementById("demo").innerHTML = x;
+    
+  </script>
   
 </body>
 </html>
