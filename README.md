@@ -45,7 +45,7 @@ Click me to display Date and Time.</button>
   documents.getElementById("demo1").innerHTML = c;
   </script>
   
---------------------------------------------------------
+----------------------------------------------
                               
  <h3>JavaScript Variables</h3>
 
@@ -74,7 +74,7 @@ y = 6;
 document.getElementById("demo").innerHTML = x + y;
 </script>
                             
- ------------------------------------------------------
+ ------------------------------------
                              
  <h3>The window.print() Method</h3>
                               
@@ -82,7 +82,7 @@ document.getElementById("demo").innerHTML = x + y;
  
  <button onlick="window.print()">Print this page</button>
                                 
-------------------------------------------------------------
+---------------------------------
 <h3>JavaScript Statements</h3>
 <p>JavaScript code block are written between { and } </p>
                                 
