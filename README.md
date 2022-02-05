@@ -155,7 +155,7 @@ document.getElementById("demo").innerHTML = x + y;
   document.getElementById("demo").innerHTML = Math.pow(x,2);
   </script>
   
-------------------------------------------------------------
+----------------------------------------------------
   
  <h3>JavaScript Assignments</h3>
  <h4>The *= Operator</h4>
@@ -167,7 +167,7 @@ document.getElementById("demo").innerHTML = x + y;
  x += 5;
  document.getElementById("demo").innerHTML = x;
  </script>
-------------------------------------------------------------
+-----------------------------------------------------
   <h2>JavaScript Strings</h2>
 
   <p>You can use quotes inside a string, as long as they don't match the quotes surrounding the string:</p>
