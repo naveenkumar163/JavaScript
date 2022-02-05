@@ -20,7 +20,7 @@ Click me to display Date and Time.</button>
 
 <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
 
----------------------------------
+------------------------------
  
 <h3>In this case JavaScript changes the value of the src (source) attribute of an image</h3> 
   
@@ -30,7 +30,7 @@ Click me to display Date and Time.</button>
 
 <button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button>
   
----------------------------------
+------------------------------
 
   <h3>JavaScript Statements</h3>
   <p>JavaScript statements are seprated by semicolons.</p>
