@@ -207,6 +207,7 @@ document.getElementById("demo").innerHTML = x + y;
     let str = "Mango, Banana, Apple";
     document.getElementById("demo").innerHTML = str.slice(15,24);
   </script>
+ -----------------------------------------------------------------
   
   
 </body>
