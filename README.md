@@ -197,6 +197,17 @@ document.getElementById("demo").innerHTML = x + y;
   </script>
   -------------------------------------------
   
+  <h3>JavaScript String Methods</h3>
+  
+  <p>The Slice() method extract a part of a string and returns the extracted parts in a new string:</p>
+  
+  <p id="demo"></p>
+  
+  <script>
+    let str = "Mango, Banana, Apple";
+    document.getElementById("demo").innerHTML = str.slice(15,24);
+  </script>
+  
   
 </body>
 </html>
