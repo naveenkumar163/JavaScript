@@ -208,8 +208,7 @@ document.getElementById("demo").innerHTML = x + y;
     document.getElementById("demo").innerHTML = str.slice(15,24);
   </script>
  -----------------------------------------------------------------
-  
-  <h3>JavaScript String Methods</h3>
+<h3>JavaScript String Methods</h3>
 
 <p>Replace "Microsoft" with "W3Schools" in the paragraph below:</p>
 
@@ -224,7 +223,6 @@ function myFunction() {
   text.replace("Microsoft","Google");
 }
 </script>
-  
   
 </body>
 </html>
