@@ -224,5 +224,10 @@ function myFunction() {
 }
 </script>
   
+Note: bydefault, the replace() method is case sensitive, writting MICROSOFT is in Upper case
+  
+----------------------------------------------------------
+  
+  
 </body>
 </html>
