@@ -195,7 +195,7 @@ document.getElementById("demo").innerHTML = x + y;
     let text ="abcdefghijklmnopqrstuvwxyz";
     documents.getElementById("demo").innerHTML = text.length;
   </script>
-  -------------------------------------------------------------
+  ----------------------------------------------------------
   
   <h3>JavaScript String Methods</h3>
   
@@ -207,7 +207,7 @@ document.getElementById("demo").innerHTML = x + y;
     let str = "Mango, Banana, Apple";
     document.getElementById("demo").innerHTML = str.slice(15,24);
   </script>
- -----------------------------------------------------------------
+ --------------------------------------------------------------
 <h3>JavaScript String Methods</h3>
 
 <p>Replace "Microsoft" with "W3Schools" in the paragraph below:</p>
