@@ -226,7 +226,7 @@ function myFunction() {
   
 Note: bydefault, the replace() method is case sensitive, writting MICROSOFT is in Upper case
   
--------------------------------------------------------------------------
+---------------------------------------------------
 <h3>JavaScript String Methods</h3>
 <p>Convert string to upper case:</p>
 
