@@ -208,7 +208,7 @@ document.getElementById("demo").innerHTML = x + y;
     document.getElementById("demo").innerHTML = str.slice(15,24);
   </script>
  --------------------------------------------------------------
-<h3>JavaScript String Methods</h3>
+<h3>JavaScript String replace() Methods</h3>
 
 <p>Replace "Microsoft" with "W3Schools" in the paragraph below:</p>
 
@@ -227,6 +227,20 @@ function myFunction() {
 Note: bydefault, the replace() method is case sensitive, writting MICROSOFT is in Upper case
   
 -------------------------------------------------------------------------
+<h3>JavaScript String Methods</h3>
+<p>Convert string to upper case:</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo">Hello World!</p>
+
+<script>
+function myFunction() {
+  let text = document.getElementById("demo").innerHTML;
+  document.getElementById("demo").innerHTML =
+  text.toUpperCase();
+}
+</script>
   
   
 </body>
