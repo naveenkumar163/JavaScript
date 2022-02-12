@@ -242,6 +242,19 @@ function myFunction() {
 }
 </script>
 ---------------------------------------------------
+<h3>JavaScript String Methods</h3>
+
+<p>The concat() method joins two or more strings:</p>
+
+<p id="demo"></p>
+
+<script>
+let text1 = "Hello";
+let text2 = "Naveen";
+let text3 = text1.concat(" ",text2);
+document.getElementById("demo").innerHTML = text3;
+</script>
+
   
   
 </body>
