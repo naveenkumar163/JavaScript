@@ -13,7 +13,7 @@ Click me to display Date and Time.</button>
 
 <p id="demo"></p>
   
-----------------------------------
+----------------------------------------
   <h2>What Can JavaScript Do?</h2>
 
 <p id="demo">JavaScript can change HTML content.</p>
@@ -254,6 +254,7 @@ let text2 = "Naveen";
 let text3 = text1.concat(" ",text2);
 document.getElementById("demo").innerHTML = text3;
 </script>
+Naveen
 --------------------------------------------------
   
 </body>
