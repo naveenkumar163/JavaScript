@@ -265,7 +265,7 @@ document.getElementById("demo").innerHTML = text3;
 var text = "HELLO WORLD";
 document.getElementById("demo").innerHTML = text.charAt(3);
 </script>
--------------------------------------------------------------------
+----------------------------------------------------------
 <h3>JavaScript Template Literals</h3>
 
 <p>With back-ticks, you can use both single and double quotes inside a string:</p>
