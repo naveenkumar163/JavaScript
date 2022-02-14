@@ -255,7 +255,7 @@ let text3 = text1.concat(" ",text2);
 document.getElementById("demo").innerHTML = text3;
 </script>
 --------------------------------------------------
-  <h2>JavaScript String Methods</h2>
+<h2>JavaScript String Methods</h2>
 
 <p>The charAt() method returns the character at a given position in a string:</p>
 
