@@ -265,6 +265,7 @@ document.getElementById("demo").innerHTML = text3;
 var text = "HELLO WORLD";
 document.getElementById("demo").innerHTML = text.charAt(3);
 </script>
+-------------------------------------------------------------------
   
 </body>
 </html>
