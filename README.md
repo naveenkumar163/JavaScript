@@ -279,7 +279,7 @@ let text = `He's often called "Johnny"`;
 document.getElementById("demo").innerHTML = text;
 </script>
 ------------------------------------------------------
-  <h2>JavaScript Template Literals</h2>
+<h3>JavaScript Template Literals</h3>
 
 <p>Template literals allows variables in strings:</p>
 
