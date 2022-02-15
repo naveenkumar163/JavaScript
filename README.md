@@ -82,7 +82,7 @@ document.getElementById("demo").innerHTML = x + y;
  
  <button onlick="window.print()">Print this page</button>
                                 
------------------------------------------------------------
+--------------------------------------------------------
 <h3>JavaScript Statements</h3>
 <p>JavaScript code block are written between { and } </p>
                                 
