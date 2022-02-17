@@ -297,5 +297,24 @@ document.getElementById("demo").innerHTML = text;
 </script>
 ------------------------------------------------
   
+ <h3>JavaScript Template Literals</h3>
+
+<p>Template literals allows variables in strings:</p>
+
+<p id="demo"></p>
+<script>
+let header = "Templates Literals";
+let tags = ["template literals", "javascript", "es6"];
+
+let html = `<h2>${header}</h2><ul>`;
+
+for (const x of tags) {
+  html += `<li>${x}</li>`;
+}
+
+html += `</ul>`;
+document.getElementById("demo").innerHTML = html;
+</script>
+  
 </body>
 </html>
