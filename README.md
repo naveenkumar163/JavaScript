@@ -317,7 +317,7 @@ document.getElementById("demo").innerHTML = html;
 </script>
   
 -----------------------------------------------
- <h2>JavaScript Numbers</h2>
+<h3>JavaScript Numbers</h2>
 
 <p>Numbers can be written with or without decimals:</p>
 
