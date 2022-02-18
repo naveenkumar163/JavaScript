@@ -241,7 +241,7 @@ function myFunction() {
   text.toUpperCase();
 }
 </script>
---------------------------------------------
+---------------------------------------------------
 <h3>JavaScript String Methods</h3>
 
 <p>The concat() method joins two or more strings:</p>
