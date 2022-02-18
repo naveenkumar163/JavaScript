@@ -195,7 +195,7 @@ document.getElementById("demo").innerHTML = x + y;
     let text ="abcdefghijklmnopqrstuvwxyz";
     documents.getElementById("demo").innerHTML = text.length;
   </script>
-  ----------------------------------------------------------
+  ------------------------------------------------------------
   
   <h3>JavaScript String Methods</h3>
   
@@ -295,9 +295,8 @@ let text = `Welcome ${firstName}, ${lastName}!`;
 
 document.getElementById("demo").innerHTML = text;
 </script>
-------------------------------------------------
-  
- <h3>JavaScript Template Literals</h3>
+------------------------------------------------ 
+<h3>JavaScript Template Literals</h3>
 
 <p>Template literals allows variables in strings:</p>
 
