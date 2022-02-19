@@ -328,7 +328,7 @@ let y = 3;
 document.getElementById("demo").innerHTML = x + "<br>" + y;
 </script> 
 ----------------------------------------------------------
-<h2>JavaScript Numbers</h2>
+<h3>JavaScript Numbers</h3>
 
 <p>Floating point arithmetic is not always 100% accurate.</p>
 
