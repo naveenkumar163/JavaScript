@@ -327,8 +327,17 @@ let x = 3.14;
 let y = 3;
 document.getElementById("demo").innerHTML = x + "<br>" + y;
 </script> 
- ----------------------------------------------------------
- 
+----------------------------------------------------------
+<h2>JavaScript Numbers</h2>
+
+<p>Floating point arithmetic is not always 100% accurate.</p>
+
+<p id="demo"></p>
+
+<script>
+let x = 0.2 + 0.1;
+document.getElementById("demo").innerHTML = "0.2 + 0.1 = " + x;
+</script> 
   
 </body>
 </html>
