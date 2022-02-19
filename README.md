@@ -338,6 +338,7 @@ document.getElementById("demo").innerHTML = x + "<br>" + y;
 let x = 0.2 + 0.1;
 document.getElementById("demo").innerHTML = "0.2 + 0.1 = " + x;
 </script> 
+----------------------------------------------------------------
   
 </body>
 </html>
