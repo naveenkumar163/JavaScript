@@ -73,8 +73,7 @@ x = 5;
 y = 6;
 document.getElementById("demo").innerHTML = x + y;
 </script>
-                            
- ------------------------------------------------
+------------------------------------------------
                              
  <h3>The window.print() Method</h3>
                               
@@ -339,6 +338,19 @@ let x = 0.2 + 0.1;
 document.getElementById("demo").innerHTML = "0.2 + 0.1 = " + x;
 </script> 
 ----------------------------------------------------------------
+<h2>JavaScript Numbers</h2>
+
+<p>JavaScript will try to convert strings to numbers when dividing:</p>
+
+<p id="demo"></p>
+
+<script>
+let x = "100";
+let y = "10";
+let z = x / y;   
+document.getElementById("demo").innerHTML = z;
+</script>  
+
   
 </body>
 </html>
