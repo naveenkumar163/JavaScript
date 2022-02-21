@@ -338,7 +338,7 @@ let x = 0.2 + 0.1;
 document.getElementById("demo").innerHTML = "0.2 + 0.1 = " + x;
 </script> 
 ----------------------------------------------------------------
-<h2>JavaScript Numbers</h2>
+<h3>JavaScript Numbers</h3>
 
 <p>JavaScript will try to convert strings to numbers when dividing:</p>
 
