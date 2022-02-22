@@ -167,7 +167,7 @@ document.getElementById("demo").innerHTML = x + y;
  document.getElementById("demo").innerHTML = x;
  </script>
 --------------------------------------------------
-  <h2>JavaScript Strings</h2>
+<h2>JavaScript Strings</h2>
 
   <p>You can use quotes inside a string, as long as they don't match the quotes surrounding the string:</p>
 
@@ -365,6 +365,7 @@ while (myNumber != Infinity) {
 }
 document.getElementById("demo").innerHTML = txt;
 </script>
+--------------------------------------------------
   
 </body>
 </html>
