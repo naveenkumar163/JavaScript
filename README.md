@@ -97,7 +97,7 @@ document.getElementById("demo").innerHTML = x + y;
     }
   </script>
   
-  --------------------------------------------------------------
+  ------------------------------------------------------------
   <h3>the <b>let</b> keywords creates Variables</h3>
   
   <p id="demo"></p>
@@ -264,7 +264,7 @@ document.getElementById("demo").innerHTML = text3;
 var text = "HELLO WORLD";
 document.getElementById("demo").innerHTML = text.charAt(3);
 </script>
-----------------------------------------------------------
+--------------------------------------------------------
 <h3>JavaScript Template Literals</h3>
 
 <p>With back-ticks, you can use both single and double quotes inside a string:</p>
