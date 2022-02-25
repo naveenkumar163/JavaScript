@@ -337,7 +337,7 @@ document.getElementById("demo").innerHTML = x + "<br>" + y;
 let x = 0.2 + 0.1;
 document.getElementById("demo").innerHTML = "0.2 + 0.1 = " + x;
 </script> 
---------------------------------------------------------------
+---------------------------------------------------------
 <h3>JavaScript Numbers</h3>
 
 <p>JavaScript will try to convert strings to numbers when dividing:</p>
@@ -365,7 +365,7 @@ while (myNumber != Infinity) {
 }
 document.getElementById("demo").innerHTML = txt;
 </script>
-------------------------------------------------
+---------------------------------------------------
   
 </body>
 </html>
