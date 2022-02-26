@@ -143,7 +143,7 @@ document.getElementById("demo").innerHTML = x + y;
     document.getElementById("demo").innerHTML = x;
     
   </script>
--------------------------------------------------
+---------------------------------------------------
   
  <h3>Math.pow()</h3>
 
