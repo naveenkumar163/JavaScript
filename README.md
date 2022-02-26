@@ -365,7 +365,7 @@ while (myNumber != Infinity) {
 }
 document.getElementById("demo").innerHTML = txt;
 </script>
----------------------------------------------------
+-----------------------------------------------------
   
 </body>
 </html>
