@@ -129,7 +129,7 @@ document.getElementById("demo").innerHTML = x + y;
   document.getElementById("demo").innerHTML = cars;
     </script>
   
----------------------------------------------------------
+-------------------------------------------------------
   <h3>JavaScript Arithmetic</h3>
   
   <p>A typical arithmetic operation takes two numbers (or expressions) and produces a new number.</p>
