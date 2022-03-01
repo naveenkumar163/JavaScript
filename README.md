@@ -350,7 +350,7 @@ let y = "10";
 let z = x / y;   
 document.getElementById("demo").innerHTML = z;
 </script>  
-------------------------------------------------
+--------------------------------------------------
 <h3>JavaScript Numbers</h3>
 <p>Infinity is returned if you calculate a number outside the largest possible number:</p>
 
