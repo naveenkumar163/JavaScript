@@ -45,7 +45,7 @@ Click me to display Date and Time.</button>
   documents.getElementById("demo1").innerHTML = c;
   </script>
   
----------------------------------------------------
+------------------------------------------------
                               
  <h3>JavaScript Variables</h3>
 
