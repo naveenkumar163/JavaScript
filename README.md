@@ -97,7 +97,7 @@ document.getElementById("demo").innerHTML = x + y;
     }
   </script>
   
-  ------------------------------------------------------------
+  --------------------------------------------------------------
   <h3>the <b>let</b> keywords creates Variables</h3>
   
   <p id="demo"></p>
