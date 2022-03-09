@@ -365,7 +365,16 @@ while (myNumber != Infinity) {
 }
 document.getElementById("demo").innerHTML = txt;
 </script>
--------------------------------------------------------
+----------------------------------------------
+ <h3>Javascript Array</h3>
+
+<p id="demo"></p>
+
+<script>
+  const cars = ["BMW", " Audi", " Volvo"]
+  document.getElementById("demo").innerHTML = cars;
+</script>
+
   
 </body>
 </html>
