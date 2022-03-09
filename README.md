@@ -374,6 +374,17 @@ document.getElementById("demo").innerHTML = txt;
   const cars = ["BMW", " Audi", " Volvo"]
   document.getElementById("demo").innerHTML = cars;
 </script>
+-------------------------------------------------------
+  <h2>JavaScript Arrays</h2>
+
+<p>Arrays use numbers to access its elements.</p>
+
+<p id="demo"></p>
+
+<script>
+const person = ["John", "Doe", 46];
+document.getElementById("demo").innerHTML = person[0];
+</script>
 
   
 </body>
