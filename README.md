@@ -386,6 +386,17 @@ const person = ["John", "Doe", 46];
 document.getElementById("demo").innerHTML = person[0];
 </script>
 --------------------------------------------------------
+<h3>Javascript Objects</h3>
+
+<p>Javascript use name to access object properties</p>
+
+<p id="demo"></p>
+
+<script>
+  const person = {firstName:"Naveen", lastName:"Kumar", age:25};
+
+  document.getElementById("demo").innerHTML = person.lastName;
+</script>
 
   
 </body>
