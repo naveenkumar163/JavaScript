@@ -385,6 +385,7 @@ document.getElementById("demo").innerHTML = txt;
 const person = ["John", "Doe", 46];
 document.getElementById("demo").innerHTML = person[0];
 </script>
+--------------------------------------------------------
 
   
 </body>
