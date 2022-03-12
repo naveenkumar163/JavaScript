@@ -410,6 +410,19 @@ document.getElementById("demo").innerHTML = person[0];
   document.getElementById("demo").innerHTML = fruits.toString();
 </script>
 -----------------------------------------------------------------
+<h3>Javascript Array Method</h3>
+<h4>Join()</h4>
+
+<p>To join() method joins array elements into a string</p>
+
+<p>This is Example we have to used " * " as a seprate between the elements</p>
+
+<p id="demo"></p>
+
+<script>
+  const fruits = ["Banana", "Mango", "Orange", "Apple"]
+  document.getElementById("demo").innerHTML = fruits.join(" * ");
+</script>
   
 </body>
 </html>
