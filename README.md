@@ -409,7 +409,7 @@ document.getElementById("demo").innerHTML = person[0];
   const fruits = ["Banana", "Orange", "Apple", "Mango"];
   document.getElementById("demo").innerHTML = fruits.toString();
 </script>
-
+-----------------------------------------------------------------
   
 </body>
 </html>
