@@ -404,12 +404,10 @@ document.getElementById("demo").innerHTML = person[0];
 <p>The toString() method returns an array as a comma separated string:</p>
 
 <p id="demo"></p>
-
 <script>
   
   const fruits = ["Banana", "Orange", "Apple", "Mango"];
   document.getElementById("demo").innerHTML = fruits.toString();
-  
 </script>
 
   
