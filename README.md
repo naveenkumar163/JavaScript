@@ -398,6 +398,19 @@ document.getElementById("demo").innerHTML = person[0];
   document.getElementById("demo").innerHTML = person.lastName;
 </script>
 --------------------------------------------------------
+<h3>Javascript Array method</h3>
+
+<h4>toString</h4>
+<p>The toString() method returns an array as a comma separated string:</p>
+
+<p id="demo"></p>
+
+<script>
+  
+  const fruits = ["Banana", "Orange", "Apple", "Mango"];
+  document.getElementById("demo").innerHTML = fruits.toString();
+  
+</script>
 
   
 </body>
