@@ -1,4 +1,4 @@
-Ki# JavaScript
+JavaScript
 i am starting JavaScript tutorials
 
 <!DOCTYPE html>
