@@ -109,7 +109,7 @@ document.getElementById("demo").innerHTML = x + y;
     
     document.getElementById("deno").innerHTML = y;
   </script>  
- ----------------------------------------------------------------------
+ --------------------------------------------------------------------
   <h3>JavaScript Const</h3>
   <p>Declaring a constant array does NOT make the elements unchangeble:</p>
   
