@@ -1,4 +1,4 @@
-JavaScript
+KoJavaScript
 i am starting JavaScript tutorials
 
 <!DOCTYPE html>
