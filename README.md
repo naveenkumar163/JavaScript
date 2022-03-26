@@ -1,7 +1,7 @@
 JavaScript
 i am starting JavaScript tutorials
 
-we put the information about the javascript
+we put the information about the javascript which is kost used 
 
 <!DOCTYPE html>
 <html>
