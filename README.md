@@ -1,7 +1,7 @@
 JavaScript
 i am starting JavaScript tutorials
 
-we put the
+we put the information
 
 <!DOCTYPE html>
 <html>
