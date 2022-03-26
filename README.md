@@ -1,6 +1,8 @@
 JavaScript
 i am starting JavaScript tutorials
 
+we put the
+
 <!DOCTYPE html>
 <html>
 <body>
