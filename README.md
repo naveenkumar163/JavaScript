@@ -1,8 +1,7 @@
 JavaScript
 i am starting JavaScript tutorials
 
-we put the information about the javascript which is most used
-
+we put the information about the javascript which is most
 <!DOCTYPE html>
 <html>
 <body>
