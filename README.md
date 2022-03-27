@@ -1,7 +1,5 @@
 JavaScript
 i am starting JavaScript tutorials
-
-we put the information about the
 <!DOCTYPE html>
 <html>
 <body>
