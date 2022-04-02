@@ -1,6 +1,5 @@
 JavaScript
 i am starting JavaScript tutorials
- html>
 <html>
 <body>
 
