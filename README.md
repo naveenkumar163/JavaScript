@@ -1,6 +1,6 @@
-KoJavaScript
+JavaScript
 i am starting JavaScript tutorials
-<!DOCTYPE html>
+ html>
 <html>
 <body>
 
