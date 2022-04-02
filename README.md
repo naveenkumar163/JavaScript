@@ -422,7 +422,7 @@ document.getElementById("demo").innerHTML = person[0];
   const fruits = ["Banana", "Mango", "Orange", "Apple"]
   document.getElementById("demo").innerHTML = fruits.join(" * ");
 </script>
-----------------------------------------
+--------------------------------------
   
 </body>
 </html>
