@@ -1,5 +1,5 @@
 JavaScript
-i am starting JavaScript tutorials
+I am starting JavaScript tutorials
 <html>
 <body>
 
