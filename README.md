@@ -71,7 +71,7 @@ x = 5;
 y = 6;
 document.getElementById("demo").innerHTML = x + y;
 </script>
-------------------------------------------
+--------------------------------------------------
                              
  <h3>The window.print() Method</h3>
                               
