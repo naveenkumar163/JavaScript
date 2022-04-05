@@ -181,7 +181,7 @@ document.getElementById("demo").innerHTML = x + y;
   answer2 + "<br>" + 
   answer3;
   </script>
- -----------------------------------------
+ ---------------------------------------------
   
   <h3> JavaScript String Properties </h3>
   <p> the length properties returns the length of string.</p>
