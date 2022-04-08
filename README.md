@@ -395,7 +395,7 @@ document.getElementById("demo").innerHTML = person[0];
 
   document.getElementById("demo").innerHTML = person.lastName;
 </script>
---------------------------------------------------------
+------------------------------------------------------
 <h3>Javascript Array method</h3>
 
 <h4>toString</h4>
