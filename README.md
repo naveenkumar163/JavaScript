@@ -152,7 +152,7 @@ document.getElementById("demo").innerHTML = x + y;
   document.getElementById("demo").innerHTML = Math.pow(x,2);
   </script>
   
----------------------------------------
+--------------------------------------------
   
  <h3>JavaScript Assignments</h3>
  <h4>The *= Operator</h4>
