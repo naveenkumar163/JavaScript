@@ -55,9 +55,8 @@ Click me to display Date and Time.</button>
       let x;
       x = 6;
 document.getElementById("demo").innerHTML = x;
-</script>
-                              
- --------------------------------------------
+</script>                          
+ ------------------------------------------------
                               
  <h3>Assigning JavaScript Values</h3>
 
