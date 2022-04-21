@@ -28,7 +28,7 @@ Click me to display Date and Time.</button>
 
 <button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button>
   
--------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 
 <h3>JavaScript Statements</h3>
   <p>JavaScript statements are seprated by semicolons.</p>
