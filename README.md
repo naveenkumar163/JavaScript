@@ -406,7 +406,7 @@ document.getElementById("demo").innerHTML = person[0];
   const fruits = ["Banana", "Orange", "Apple", "Mango"];
   document.getElementById("demo").innerHTML = fruits.toString();
 </script>
----------------------------------------------
+-----------------------------------------------
 <h3>Javascript Array Method</h3>
 <h4>Join()</h4>
 
