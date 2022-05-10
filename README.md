@@ -1,4 +1,4 @@
-OoJavaScript
+JavaScript
 I am starting JavaScript tutorials
 <html>
 <body>
