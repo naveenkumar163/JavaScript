@@ -10,7 +10,6 @@ onclick="document.getElementById('demo').innerHTML = Date()">
 Click me to display Date and Time.</button>
 
 <p id="demo"></p>
-  
 ------------------------------------------
 <h3>What Can JavaScript Do?</h3>
 
