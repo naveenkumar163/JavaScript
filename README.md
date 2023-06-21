@@ -1,5 +1,5 @@
 JavaScript
-I am starting JavaScript tutorials
+I am starting JavaScript tutorial
 <html>
 <body>
 
@@ -16,7 +16,7 @@ Click me to display Date and Time.</button>
 
 <button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
 
-------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
  
 <h3>In this case JavaScript changes the value of the src (source) attribute of an image</h3> 
   
